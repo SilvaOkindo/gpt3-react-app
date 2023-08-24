@@ -1,4 +1,4 @@
-
+import './cta.css'
 
 const Cta = () => {
   return (

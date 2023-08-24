@@ -1,4 +1,4 @@
-
+import './article.css'
 
 const Article = () => {
   return (
