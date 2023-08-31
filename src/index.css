@@ -12,3 +12,13 @@
   --color-text: #81AFDD;
   --color-subtext: #FF8A71;
 }
+
+
+button {
+  border: none;
+  outline: none;
+}
+
+html {
+  font-family: var(--font-family);
+}
